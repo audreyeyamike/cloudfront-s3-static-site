@@ -23,7 +23,7 @@ This project demonstrates how to host a *static website securely* using a *priva
 ## 🌍 Live Demo
 
 You can view the website here:  
-🔗 *[https://d10vebhx19efw0.cloudfront.net](https://d10vebhx19efw0.cloudfront.net)*
+🔗 *[https://d10vebhx19efw0.cloudfront.net](https://d10vebhx19efw0.cloudfront.net/index.html)*
 
 ## 🛠 Skills Demonstrated
 
