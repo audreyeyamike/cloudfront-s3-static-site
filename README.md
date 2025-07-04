@@ -39,7 +39,11 @@ You can view the website here:
 - The importance of keeping S3 buckets private
 - How to use CloudFront and OAC for content delivery
 - Real-world application of cloud infrastructure setup
+## 📸 Screenshot
 
+Here’s a screenshot of the hosted static website before AWS resources were deleted:
+
+![Static Website Screenshot](./screenshot.png)
 ---
 
 ## 👤 Author
