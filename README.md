@@ -43,7 +43,7 @@ You can view the website here:
 
 Here’s a screenshot of the hosted static website before AWS resources were deleted:
 
-![Static Website Screenshot](./screenshot.png)
+![Static Website Screenshot](./cloudfront.png)
 ---
 
 ## 👤 Author
